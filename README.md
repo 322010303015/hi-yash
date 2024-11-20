@@ -1,2 +1,0 @@
-# hi-yash
-Hello world
